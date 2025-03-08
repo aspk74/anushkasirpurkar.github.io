@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>Anushka Sirpurkar</title>
+ <link href="http://localhost:4000/atom.xml" rel="self"/>
+ <link href="http://localhost:4000/"/>
+ <updated>2025-03-08T01:03:23+00:00</updated>
+ <id>http://localhost:4000</id>
+ <author>
+   <name></name>
+   <email></email>
+ </author>
+
+ 
+ <entry>
+   <title>Hey! I'm Anushka, nice to meet you!</title>
+   <link href="http://localhost:4000/2019/10/23/hey-im-anushka.html"/>
+   <updated>2019-10-23T00:00:00+00:00</updated>
+   <id>http://localhost:4000/2019/10/23/hey-im-anushka</id>
+   <content type="html">&lt;p&gt;I’m a Data Engineer at Sanford Health with a strong background in business analytics. I work on designing and implementing automated ETL solutions. My passion lies in tackling complex challenges that require deep research and analytical thinking. My professional journey includes valuable experience as a Data Engineer at Vodafone Telecommunications in India, along with successful completion of three major projects and various smaller initiatives during my academic career. I possess strong technical proficiency in modern data technologies including Snowflake, Spark, Python, and AWS services (S3, Redshift, Glue, EC2).&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Personal Projects</title>
+   <link href="http://localhost:4000/2019/10/21/personal-projects.html"/>
+   <updated>2019-10-21T00:00:00+00:00</updated>
+   <id>http://localhost:4000/2019/10/21/personal-projects</id>
+   <content type="html">&lt;p&gt;&lt;b&gt;Predicting Chess Games&lt;/b&gt; &lt;a href=&quot;https://github.com/aspk74/Chess_EloPos_Evaluation&quot;&gt;
+[Code]
+&lt;/a&gt;
+&lt;span class=&quot;post-date&quot;&gt;Dec 2023&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Designed an automated ETL pipeline using Airflow to pull 3M rows of chess game data from Chess.com APIs, processing this data on GCP buckets&lt;/li&gt;
+  &lt;li&gt;Transferred stored data from buckets to MongoDB clusters and connected it to a Databricks cluster to develop classification models, leveraging
+SparkMLlib to classify game outcomes and surpassing traditional ELO benchmark accuracy by 2.11%&lt;/li&gt;
+  &lt;li&gt;Used: Airflow, Spark, GCP, Databricks, MongoDB&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;b&gt;GenAI PDF Summarization and Interaction with ChatGPT&lt;/b&gt; &lt;a href=&quot;https://github.com/aspk74?tab=repositories&quot;&gt;
+[Code]
+&lt;/a&gt;
+&lt;span class=&quot;post-date&quot;&gt;May 2024&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Built GenAI PDF-GPT, a web application using OpenAI’s ChatGPT API and Retrieval-Augmented Generation (RAG) for advanced document analysis&lt;/li&gt;
+  &lt;li&gt;Extracted and summarized critical insights from uploaded PDF files by using ChatGPT’s robust summarization capabilities for quicker data access
+Implemented a chat interface for user interaction with extracted PDF information and used LangChain for efficient information retrieval from PDFs&lt;/li&gt;
+  &lt;li&gt;Used: Python, OpenAI API, LangChain, RAG, Flask&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;b&gt; Multimodal Resume Analysis&lt;/b&gt; &lt;a href=&quot;https://github.com/aspk74?tab=repositories&quot;&gt;
+[Code]
+&lt;/a&gt;
+&lt;span class=&quot;post-date&quot;&gt;Aug 2023&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Developed an advanced resume analyzer capable of extracting and analyzing text, images, and audio data from resumes and multimedia presentations&lt;/li&gt;
+  &lt;li&gt;Engineered a TensorFlow-based pipeline to preprocess multimodal data for real-time classification, achieving processing of upto 500 resumes/minute&lt;/li&gt;
+  &lt;li&gt;Used: Python, TensorFlow, PyTorch&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;b&gt;Transliteration of Sanskrit Using Natural Language Processing&lt;/b&gt; &lt;a href=&quot;https://github.com/aspk74?tab=repositories&quot;&gt;
+[Code]
+&lt;/a&gt;
+&lt;span class=&quot;post-date&quot;&gt;Jan 2023&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Designed a platform that understood Sanskrit &amp;amp; performs NLP-based transliteration from English to Sanskrit &amp;amp; performs semantic relation analysis&lt;/li&gt;
+  &lt;li&gt;Fabricated a complex WordNet using Graph Database for the storage of 65,000 Sanskrit words &amp;amp; built a transliteration module for converting&lt;/li&gt;
+  &lt;li&gt;Used: Python, NLP, Neo4j&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Blogs</title>
+   <link href="http://localhost:4000/2019/10/20/blogs.html"/>
+   <updated>2019-10-20T00:00:00+00:00</updated>
+   <id>http://localhost:4000/2019/10/20/blogs</id>
+   <content type="html">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@anushka7400.as/behind-the-scenes-at-lyft-how-airflow-and-flyte-power-data-workflows-7809e9d47ff0&quot;&gt;Behind the Scenes at Lyft: How Airflow and Flyte Power Data Workflows&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Follow me for for on &lt;a href=&quot;https://medium.com/@anushka7400.as&quot;&gt;Medium&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Publications</title>
+   <link href="http://localhost:4000/2019/10/19/publications.html"/>
+   <updated>2019-10-19T00:00:00+00:00</updated>
+   <id>http://localhost:4000/2019/10/19/publications</id>
+   <content type="html">&lt;ul&gt;
+  &lt;li&gt;Applications of IOT in E-toilet Management System, International Journal of Emerging Technology and Research, ISSN:2349-5162 &lt;a href=&quot;https://www.jetir.org/view?paper=JETIR2109040&quot;&gt;
+[Journal link]
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Professional Experience</title>
+   <link href="http://localhost:4000/2019/10/15/professional-experience.html"/>
+   <updated>2019-10-15T00:00:00+00:00</updated>
+   <id>http://localhost:4000/2019/10/15/professional-experience</id>
+   <content type="html">&lt;p&gt;&lt;b&gt;Data Engineer (Data Platform Team) @ Sanford Health&lt;/b&gt;
+&lt;span class=&quot;post-date&quot;&gt;July 2024 - Present&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Automated CI/CD workflows for ETL processes using Python &amp;amp; AWS Glue for data integration across sources, reducing deployment time by 40%&lt;/li&gt;
+  &lt;li&gt;Designed ETL pipelines for migrating data from multiple ERPs (Tecsys, Lawson, etc.) to Redshift data warehouse, ensuring system-wide consistency&lt;/li&gt;
+  &lt;li&gt;Designed multiple real-time data linkage processes for integrating data sources and enabling accurate and low-latency reporting for supply chain metrics&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;b&gt; Student Research Assistant @ University of Massachusetts, Amherst&lt;/b&gt;
+&lt;span class=&quot;post-date&quot;&gt;May 2023 - Aug 2023&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Led development &amp;amp; maintenance of a Python-based data monitoring pipeline using Airflow to track files received from UMass School of Agriculture&lt;/li&gt;
+  &lt;li&gt;Automated archival of older files in the HANA transport folder using Apache Airflow, ensuring streamlined data hygiene &amp;amp; optimized storage&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;b&gt;Data Engineer @ AK Fiserv&lt;/b&gt;
+&lt;span class=&quot;post-date&quot;&gt;Mar 2022 - Aug 2022&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Built data pipelines for ingesting data from multiple sources(Workday, Peoplesoft, Salesforce, third-party vendor APIs) and load it into Snowflake using
+Spark, Python, AWS(S3, EC2, Lambda, Glue), and Snowpipe, etc&lt;/li&gt;
+  &lt;li&gt;Led cost-saving initiatives by implementing query tags in Airflow DAGs via Databricks &amp;amp; optimizing Snowflake queries, reducing monthly costs by 30%&lt;/li&gt;
+  &lt;li&gt;Migrated processes from username-password to key-pair authentication for all Spark &amp;amp; Snowflake connectors that reduced vulnerabilities by 80%&lt;/li&gt;
+  &lt;li&gt;Collaborated with cross-functional teams to discuss Data Profiling requirements and create Source-To-Target-Mapping (STTM) documents&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;b&gt;Data Engineer (GET) @ Vodafone&lt;/b&gt;
+&lt;span class=&quot;post-date&quot;&gt;June 2021 - Feb 2022&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Engineered scalable data pipelines for 30M+ real-time Kafka messages, transforming &amp;amp; loading into Snowflake tables and AWS storage with Prefect,
+cutting runtime by 65%&lt;/li&gt;
+  &lt;li&gt;Implemented a proactive alerting system to swiftly identify server downtime and monitor crucial server metrics, reducing downtime by 80%&lt;/li&gt;
+  &lt;li&gt;Engineered data transformation workflows to extract 15+ key performance indicators (KPIs), finding critical insights for customer churn cycle&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;b&gt;Machine Learning Intern @ Yibe&lt;/b&gt;
+&lt;span class=&quot;post-date&quot;&gt;Sep 2020 - Mar 2021&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Developed an image captioning model using encoder-decoder architecture and transfer learning in TensorFlow, achieving a BLEU-1 score of 0.66 on
+the Flickr30K dataset by integrating InceptionV3 for precise image feature encoding&lt;/li&gt;
+&lt;/ul&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>More about me</title>
+   <link href="http://localhost:4000/2019/10/14/more-about-me.html"/>
+   <updated>2019-10-14T00:00:00+00:00</updated>
+   <id>http://localhost:4000/2019/10/14/more-about-me</id>
+   <content type="html">&lt;p&gt;I enjoy playing basketball and exploring new desert places during my free time.&lt;/p&gt;
+</content>
+ </entry>
+ 
+
+</feed>
