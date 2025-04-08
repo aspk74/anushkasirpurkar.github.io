@@ -2,7 +2,26 @@
 layout: post
 title: Personal Projects
 ---
+<b>Interactive GenAI PDF Summarization with ChatGPT</b> <a href="https://github.com/aspk74?tab=repositories">
+[Code]
+</a>
+<span class="post-date">May 2024</span>
 
+* Built GenAI PDF-GPT, a web app using OpenAI’s ChatGPT API & Retrieval-Augmented Generation (RAG) for document analysis
+* Leveraged ChatGPT’s summarization capabilities & LangChain to extract insights from PDFs & designed a chat interface for users
+* Used: Python, OpenAI API, LangChain, RAG, Flask
+
+
+<b>Real-time Customer Sentiment Analysis</b> <a href="https://github.com/aspk74?tab=repositories">
+[Code]
+</a>
+<span class="post-date">Dec 2024</span>
+
+* Built a real-time customer feedback analysis tool using Kafka, Spark & MLlib, with 90% accuracy in sentiment classification (RAG)
+* Stored processed data in Delta Lake for efficient querying & analysis, enabling real-time monitoring of sentiment trends
+* Used: Python, Kafka, Spark, MLlib
+
+  
 <b>Predicting Chess Games</b> <a href="https://github.com/aspk74/Chess_EloPos_Evaluation">
 [Code]
 </a>
@@ -14,18 +33,6 @@ SparkMLlib to classify game outcomes and surpassing traditional ELO benchmark ac
 * Used: Airflow, Spark, GCP, Databricks, MongoDB
 
 
-
-<b>GenAI PDF Summarization and Interaction with ChatGPT</b> <a href="https://github.com/aspk74?tab=repositories">
-[Code]
-</a>
-<span class="post-date">May 2024</span>
-
-* Built GenAI PDF-GPT, a web application using OpenAI’s ChatGPT API and Retrieval-Augmented Generation (RAG) for advanced document analysis
-* Extracted and summarized critical insights from uploaded PDF files by using ChatGPT’s robust summarization capabilities for quicker data access
-Implemented a chat interface for user interaction with extracted PDF information and used LangChain for efficient information retrieval from PDFs
-* Used: Python, OpenAI API, LangChain, RAG, Flask
-
-
 <b> Multimodal Resume Analysis</b> <a href="https://github.com/aspk74?tab=repositories">
 [Code]
 </a>
@@ -35,11 +42,4 @@ Implemented a chat interface for user interaction with extracted PDF information
 * Engineered a TensorFlow-based pipeline to preprocess multimodal data for real-time classification, achieving processing of upto 500 resumes/minute
 * Used: Python, TensorFlow, PyTorch
 
-<b>Transliteration of Sanskrit Using Natural Language Processing</b> <a href="https://github.com/aspk74?tab=repositories">
-[Code]
-</a>
-<span class="post-date">Jan 2023</span>
 
-* Designed a platform that understood Sanskrit & performs NLP-based transliteration from English to Sanskrit & performs semantic relation analysis
-* Fabricated a complex WordNet using Graph Database for the storage of 65,000 Sanskrit words & built a transliteration module for converting
-* Used: Python, NLP, Neo4j
