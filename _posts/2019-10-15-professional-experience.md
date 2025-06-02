@@ -6,35 +6,37 @@ title: Professional Experience
 <b>Data Engineer (Data Platform Team) @ Sanford Health</b>
 <span class="post-date">July 2024 - Present</span>
 
-* Automated ingestion pipelines using AWS Glue & PySpark, streamlining ETL workflows & reducing manual effort by 25+ hrs/week
-* Architected a scalable data lakehouse by redesigning tables & building ingestion pipelines to integrate ERP & Redshift data
-* Performed data reconciliation between old & new lakehouses using Spark, ensuring less than 0.01% data loss during migration
-* Resolved ServiceNow tickets for custom Power BI reports, modifying existing logic, & fulfilling data pull requests for customers
+* Built PySpark notebooks to unify data from 7+ legacy systems into Fabric Lakehouse for centralized reporting & no data silos
+* Developed 50+ standardized schemas on Fabric, ensuring data consistency & supporting scalable analytics infrastructure
+* Led data modelling to build semantic models linking tables with business logic, powering 300+ Power BI reports company-wide
+* Built automated data pipelines with scheduled triggers, increasing data refresh rate by 6x & enabling near real-time reporting
+* Built PySpark & Great Expectations data quality framework keeping <0.001% error rate, assuring data integrity during migration
+* Resolved 100+ ServiceNow tickets for custom reporting, improving productivity & reducing time-to-insight for business users
+* Supported migration of data from 7+ legacy systems to a Redshift data warehouse, reducing annual licensing costs while
+improving data access speed by 3x through centralized storage
 
 <b> Student Research Assistant @ University of Massachusetts, Amherst</b>
 <span class="post-date">May 2023 - Aug 2023</span>
 
-* Led development of a Python-based data monitoring pipeline using Airflow to track files received from UMass Agriculture School
-* Streamlined data hygiene & optimized storage by automating the archival of older files in the HANA transport folder using Airflow
+* Developed monitoring application using Python & Airflow for Agriculture School file tracking, improving overall data visibility
+* Automated archival of legacy files in HANA transport folder using Airflow, optimizing storage costs & improving performance
 
 
 <b>Data Engineer @ AK Fiserv</b>
 <span class="post-date">Mar 2022 - Aug 2022</span>
 
-* Built a PySpark & Great Expectations framework to validate 1M+ records daily, ensuring 99.9% accuracy for compliance reporting
-* Built CI/CD workflows with GitHub Actions for secure data pipeline deployment & reducing configuration errors by 30%
-* Configured IAM roles, S3 policies, & AWS KMS to enforce strict access controls & encryption for financial data, reducing breaches
-* Created dashboards to track compliance metrics & audit trails, enabling stakeholders to identify potential risks & take action
+* Set up 12+ CI/CD workflows via GitHub Actions for deployment, reducing config errors by 30% & accelerating product delivery
+* Built PySpark & Great Expectations framework validating 1M+ daily records with 99.9% accuracy, reducing audit risk for reporting
+* Configured AWS security infrastructure(IAM, S3 policies, KMS), strengthening financial data protection & reducing breach risk
+* Created 8+ compliance monitoring dashboards with audit trails, enabling early risk detection & faster regulatory response
 
 
 <b>Data Engineer (GET) @ Vodafone</b>
 <span class="post-date">June 2021 - Feb 2022</span>
 
-* Built a real-time Kafka & Spark Streaming pipeline processing 10M+ events/hr, cutting downtime by 20% via proactive detection
-* Designed an ETL pipeline with Airflow & AWS Glue, slashing data prep time from 4 hours to 30 minutes, for TBs of customer data
-* Deployed a churn prediction model using PySpark MLlib & SageMaker, achieving 85% accuracy & reducing churn rate by 10%
-* Migrated on-premise data to a data lake on S3, improving retrieval times by 30% & enabling scalable storage for 100+ TB of data
-* Created dashboards to visualize customer usage patterns & network performance, with optimized dbt models & Airflow DAGs
+* Extended ETL/ELT pipelines (Python, dbt, Teradata) to integrate 20+ retail data sources, enabling customer LTV & churn analytics
+* Built 30+ reusable dbt models & CI/CD pipelines, enabling 200+ users to generate insights 3x faster through intuitive datasets
+* Automated 50+ schema drift & lineage checks using Great Expectations, ensuring zero production incidents in over 3+ months
 
 <b>Data Science Intern @ Iha Consulting</b>
 <span class="post-date">Feb 2021 - May 2021</span>
