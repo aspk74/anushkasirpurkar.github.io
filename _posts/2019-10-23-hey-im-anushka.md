@@ -3,5 +3,7 @@ layout: post
 title: Hey! I'm Anushka, nice to meet you!
 ---
 
-I'm a Data Engineer at Sanford Health with a strong background in business analytics. I work on designing and implementing automated ETL solutions. My passion lies in tackling complex challenges that require deep research and analytical thinking. My professional journey includes valuable experience as a Data Engineer at Vodafone Telecommunications in India, along with successful completion of three major projects and various smaller initiatives during my academic career. I possess strong technical proficiency in modern data technologies including Snowflake, Spark, Python, and AWS services (S3, Redshift, Glue, EC2).
+I’m a data engineer with 3+ years of experience turning messy data into meaningful insights. I’ve worked across healthcare, fintech, and telecom—building scalable pipelines, migrating legacy systems to modern cloud platforms like AWS and Fabric, and designing clean, reliable data models that power hundreds of dashboards. I love working with Python, PySpark, Kafka, and dbt, and I’m big on data quality—shoutout to Great Expectations for helping me keep things clean!
+
+Outside of coding, I enjoy writing about data workflows on Medium and experimenting with mini projects (like my PDF summarizer with ChatGPT!). Whether it's building real-time systems with Kinesis or optimizing ETL pipelines, I’m always up for solving hard data problems and making life easier for analysts, engineers, and stakeholders.
 
